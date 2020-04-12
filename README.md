@@ -8,3 +8,6 @@ Target to complete this project depending on php.
 * User signup and login
 * Product category
 * Different payment method
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
