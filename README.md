@@ -1,6 +1,6 @@
  <h1>Pick By Click</h1>
 
-We are trying to create an E-commerce website.All rights are reserved to the owner of this file.
+We are trying to create an E-commerce website.
 Target to complete this project depending on php.
 
 * Totally dynamic website
