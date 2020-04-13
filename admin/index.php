@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
@@ -9,8 +9,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Sufee Admin - HTML5 Admin Template</title>
-    <meta name="description" content="Sufee Admin - HTML5 Admin Template">
+    <title>Admin || Pick-By-Click</title>
+    <meta name="description" content="Pick-By-Click Admin Panel">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" href="apple-icon.png">
@@ -125,7 +125,7 @@
         </nav>
     </aside><!-- /#left-panel -->
 
-    <!-- Left Panel -->
+    <!-- Left Panel end-->
 
     <!-- Right Panel -->
 
@@ -234,9 +234,12 @@
 
                     <div class="language-select dropdown" id="language-select">
                         <a class="dropdown-toggle" href="#" data-toggle="dropdown"  id="language" aria-haspopup="true" aria-expanded="true">
-                            <i class="flag-icon flag-icon-us"></i>
+                            <i class="flag-icon flag-icon-bd"></i>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="language">
+                            <div class="dropdown-item">
+                                <span class="flag-icon flag-icon-bd"></span>
+                            </div>
                             <div class="dropdown-item">
                                 <span class="flag-icon flag-icon-fr"></span>
                             </div>
