@@ -53,3 +53,53 @@ header .site-title{
     text-decoration: none;
     color: white;
 }
+
+/*Navigation Menu*/
+
+.navbar-nav{
+    padding:0.8em 0em;
+}
+
+.navbar-nav .nav-link{
+    font-size: 0.9em;
+    color:var(--light-gray) !important;
+}
+
+.navbar-nav .nav-item .nav-link{
+    padding: 0 1.3em;
+}
+
+.navbar-nav .basket-icon{
+    margin-right: 0.5rem !important;
+}
+
+/*slider-one*/
+
+.site-slider{
+    position: relative;
+}
+
+.site-slider .slider-btn .prev,
+.site-slider .slider-btn .next{
+    background-color: var(--primary-color);
+    padding: 1rem 1.5rem;
+    border-radius: 10rem;
+    color: white;
+    margin: 0 1rem;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.site-slider .hover .slider-btn .prev,
+.site-slider .hover .slider-btn .next{
+    opacity: 1;
+}
+
+.right-0{
+    right: 0;
+}
+
+.position-top{
+    position: absolute;
+    top: 50%;
+}
