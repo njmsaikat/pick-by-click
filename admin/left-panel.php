@@ -18,9 +18,9 @@
                     <li class="menu-item-has-children dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Components</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-puzzle-piece"></i><a href="ui-buttons.php">Buttons</a></li>
-                            <li><i class="fa fa-id-badge"></i><a href="ui-badges.php">Badges</a></li>
-                            <li><i class="fa fa-bars"></i><a href="ui-tabs.php">Tabs</a></li>
+                            <li><i class="fa fa-puzzle-piece"></i><a href="ui-buttons.php">Admin List</a></li> <!--admin list details will be accessed -->
+                            <li><i class="fa fa-id-badge"></i><a href="ui-badges.php">Sellers List</a></li> <!-- seller list -->
+                            <li><i class="fa fa-bars"></i><a href="ui-tabs.php">User List</a></li> <!-- user list -->
                             <li><i class="fa fa-share-square-o"></i><a href="ui-social-buttons.php">Social Buttons</a></li>
                             <li><i class="fa fa-id-card-o"></i><a href="ui-cards.php">Cards</a></li>
                             <li><i class="fa fa-exclamation-triangle"></i><a href="ui-alerts.php">Alerts</a></li>
