@@ -19,11 +19,3 @@ Target to complete this project depending on php.
 - MySql
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
- # Developers Team
- 
- [Saikat Roy](https://github.com/njmsaikat)
- 
- [Sadekur Rahman](https://github.com/Biplob14)
